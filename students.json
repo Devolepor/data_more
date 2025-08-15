@@ -16,15 +16,12 @@
   "519287": {
     "name": "علي",
     "main": "الصف الثالث الثانوي",
-    "group": "",
+    "group": "محمود",
     "phone": "01226223245",
     "motherPhone": "012548481215",
     "school": "يابلابات",
     "day": "السبت",
     "image": "",
-    "_file": "students.json",
-    "attendance": {
-      "السبت": "حاضر"
-    }
+    "_file": "students.json"
   }
 }
