@@ -28,15 +28,12 @@
     "name": "هاني",
     "main": "الصف الثالث الثانوي",
     "group": "محمود",
-    "phone": "010564987565",
+    "phone": "2010564987565",
     "motherPhone": "01595996565",
     "school": "لبلالاتف",
     "day": "السبت",
     "image": "",
-    "_file": "students.json",
-    "attendance": {
-      "السبت": "حاضر"
-    }
+    "_file": "students.json"
   },
   "492999": {
     "name": "سعد",
