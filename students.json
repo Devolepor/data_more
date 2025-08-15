@@ -45,15 +45,12 @@
     "name": "سعد",
     "main": "الصف الثالث الثانوي",
     "group": "سامح",
-    "phone": "01226223245",
+    "phone": "201226223245",
     "motherPhone": "0125688955",
     "school": "ليبالاق",
     "day": "الأحد",
     "image": "",
-    "_file": "students.json",
-    "attendance": {
-      "الأحد": "حاضر"
-    }
+    "_file": "students.json"
   },
   "502687": {
     "name": "فارسه",
