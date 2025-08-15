@@ -56,5 +56,19 @@
     "day": "السبت",
     "image": "",
     "_file": "students.json"
+  },
+  "567456": {
+    "name": "احمد",
+    "main": "الصف الثالث الثانوي",
+    "group": "سامح",
+    "phone": "201123961290",
+    "motherPhone": "201004553806",
+    "school": "بيتاي",
+    "day": "الأحد",
+    "image": "",
+    "_file": "students.json",
+    "attendance": {
+      "الأحد": "حاضر"
+    }
   }
 }
