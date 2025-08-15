@@ -56,19 +56,5 @@
     "day": "السبت",
     "image": "",
     "_file": "students.json"
-  },
-  "870714": {
-    "name": "هاني",
-    "main": "الصف الثالث الثانوي",
-    "group": "محمود",
-    "phone": "201226223245",
-    "motherPhone": "201595996565",
-    "school": "التيلا",
-    "day": "السبت",
-    "image": "",
-    "_file": "students.json",
-    "attendance": {
-      "السبت": "حاضر"
-    }
   }
 }
