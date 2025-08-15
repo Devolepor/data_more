@@ -1,12 +1,12 @@
 {
   "1755075458368": {
-    "studentId": "فارس",
+    "studentId": "285550",
     "date": "2025-08-13",
     "attendance": "حاضر",
     "homework": "تم",
     "words": "تم",
     "testScore": "10",
-    "notes": "  "
+    "notes": "مش قد كدا لازم تقرصعليه"
   },
   "1755261707914": {
     "studentId": "492999",
@@ -25,5 +25,14 @@
     "words": "لم يتم",
     "testScore": "9",
     "notes": "متاخر"
+  },
+  "1755262136751": {
+    "studentId": "502687",
+    "date": "2025-08-15",
+    "attendance": "حاضر",
+    "homework": "لم يتم",
+    "words": "تم",
+    "testScore": "11",
+    "notes": "اوك"
   }
 }
