@@ -8,7 +8,10 @@
     "school": "التيلا",
     "day": "الجمعة",
     "image": "",
-    "_file": "students.json"
+    "_file": "students.json",
+    "attendance": {
+      "الأحد": "حاضر"
+    }
   },
   "408493": {
     "name": "محمد",
